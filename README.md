@@ -43,70 +43,78 @@
 
 ---
 
-##  GitHub Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiberius-Aemilius-Draconis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiberius-Aemilius-Draconis&layout=compact&theme=tokyonight"/>
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tiberius-Aemilius-Draconis&theme=tokyonight)
-  
-</div>
-
----
-
-##  GitHub Trophies
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Tiberius-Aemilius-Draconis&theme=tokyonight&row=1&column=6)
-  
-</div>
-
----
-
 ##  Experience | Experiencia
 
+<div align="center">
+
+###  Current Focus
 `javascript
-const professionalProfile = {
-    currentRole: "Freelance Web Developer",
-    specialization: [
-        "AWS Cloud Solutions",
-        "Next.js Applications", 
-        "Linux Server Administration",
-        "Security & Penetration Testing"
-    ],
-    experience: "Freelance web projects",
-    expertise: [
-        "Server Administration", 
-        "Cloud Infrastructure",
-        "Cybersecurity",
-        "Full-Stack Development"
-    ]
+const profile = {
+    role: "Freelance Full-Stack Developer",
+    specialties: ["AWS Cloud", "Next.js", "Linux Admin", "Cybersecurity"],
+    available: true,
+    motto: "Securing the cloud, one deployment at a time"
 };
 `
 
----
-
-##  Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiberius-Aemilius-Draconis&repo=fefe&theme=tokyonight)](https://github.com/Tiberius-Aemilius-Draconis/fefe)
+###  What I Do
+-  **AWS Cloud Solutions** - Scalable infrastructure design
+-  **Next.js Applications** - Modern web development
+-  **Linux Server Admin** - System configuration & security
+-  **Security Testing** - Penetration testing with Metasploit
+-  **DevOps** - Docker containerization & deployment
 
 </div>
 
 ---
 
-##  Activity Graph
+##  Featured Technologies
+
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tiberius-Aemilius-Draconis&theme=tokyo-night)
+  ![Cloud](https://img.shields.io/badge/Cloud-Computing-blue?style=flat-square&logo=amazon-aws)
+  ![Security](https://img.shields.io/badge/Cyber-Security-red?style=flat-square&logo=hack-the-box)
+  ![DevOps](https://img.shields.io/badge/Dev-Ops-green?style=flat-square&logo=docker)
+  ![Web](https://img.shields.io/badge/Web-Development-yellow?style=flat-square&logo=javascript)
   
+</div>
+
+---
+
+##  Cool Visuals
+
+<div align="center">
+  
+  ![Matrix](https://readme-typing-svg.herokuapp.com?font=Courier&size=16&duration=1000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=600&height=150&lines=root%40kali%3A~%23+nmap+-sV+target.com;Starting+Nmap+scan...;Host+is+up+(0.043s+latency);PORT++++STATE+SERVICE+VERSION;22%2Ftcp++open++ssh++++OpenSSH+8.2;80%2Ftcp++open++http+++nginx+1.18;443%2Ftcp+open++https++nginx+1.18;Scan+complete!+%F0%9F%94%90)
+  
+</div>
+
+<div align="center">
+  
+  ###  Terminal Style
+  ![Terminal](https://img.shields.io/badge/Terminal-Mastery-black?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+  
+</div>
+
+---
+
+##  Professional Status
+
+<div align="center">
+
+###  Currently Working On
+![Status](https://img.shields.io/badge/Status-Available_for_Freelance-brightgreen?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Focus-Cloud_Security-blue?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-Advanced_AWS-orange?style=for-the-badge)
+
+###  Expertise Level
+![AWS](https://img.shields.io/badge/AWS-Intermediate-FF9900?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-Intermediate-red?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge)
+
 </div>
 
 ---
@@ -115,8 +123,9 @@ const professionalProfile = {
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
   
   ###  "Securing the cloud, one deployment at a time" 
   
@@ -130,6 +139,6 @@ const professionalProfile = {
   
   ###  Available for freelance projects! Let's build something secure and scalable! 
   
-  ![Snake animation](https://github.com/Tiberius-Aemilius-Draconis/Tiberius-Aemilius-Draconis/blob/output/github-contribution-grid-snake.svg)
+  ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
   
 </div>
