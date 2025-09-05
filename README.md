@@ -2,37 +2,42 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Code+Architect;Problem+Solver;Always+Learning)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+Security+Specialist;Server+Administrator;Freelancer)
   
-  ###  Passionate Developer |  Creative Thinker |  Code Enthusiast
+  ###  AWS Developer |  Cybersecurity Enthusiast |  Linux Admin
   
 </div>
 
 ---
 
-##  Tech Stack & Tools
+##  Skills & Tools | Habilidades y Herramientas
 
 <div align="center">
 
-###  Languages
+###  Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+###  Web Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-###  Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+###  System Administration
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-###  Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+###  Security & Penetration Testing
+![Metasploit](https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hack-the-box&logoColor=white)
 
-###  Tools
+###  Version Control & Development
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -64,6 +69,29 @@
 
 ---
 
+##  Experience | Experiencia
+
+`javascript
+const professionalProfile = {
+    currentRole: "Freelance Web Developer",
+    specialization: [
+        "AWS Cloud Solutions",
+        "Next.js Applications", 
+        "Linux Server Administration",
+        "Security & Penetration Testing"
+    ],
+    experience: "Freelance web projects",
+    expertise: [
+        "Server Administration", 
+        "Cloud Infrastructure",
+        "Cybersecurity",
+        "Full-Stack Development"
+    ]
+};
+`
+
+---
+
 ##  Featured Projects
 
 <div align="center">
@@ -71,19 +99,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiberius-Aemilius-Draconis&repo=fefe&theme=tokyonight)](https://github.com/Tiberius-Aemilius-Draconis/fefe)
 
 </div>
-
----
-
-##  Current Focus
-
-`javascript
-const currentFocus = {
-    learning: ["Advanced JavaScript", "React.js", "Node.js"],
-    building: ["Full Stack Applications", "API Development"],
-    exploring: ["Cloud Computing", "DevOps", "AI/ML"],
-    goals2025: ["Master Modern Web Development", "Build Amazing Projects"]
-};
-`
 
 ---
 
@@ -101,10 +116,9 @@ const currentFocus = {
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
   
-  ###  "Code is poetry written in logic"
+  ###  "Securing the cloud, one deployment at a time" 
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Tiberius-Aemilius-Draconis&color=brightgreen&style=for-the-badge)
   
@@ -114,7 +128,7 @@ const currentFocus = {
 
 <div align="center">
   
-  ###  Thanks for visiting! Let's build something amazing together! 
+  ###  Available for freelance projects! Let's build something secure and scalable! 
   
   ![Snake animation](https://github.com/Tiberius-Aemilius-Draconis/Tiberius-Aemilius-Draconis/blob/output/github-contribution-grid-snake.svg)
   
