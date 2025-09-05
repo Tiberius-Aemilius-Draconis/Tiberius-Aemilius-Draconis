@@ -95,6 +95,28 @@
 
 ---
 
+##  Languages | Idiomas
+
+<div align="center">
+
+** Spanish / Español:** Native / Nativo  
+** English / Inglés:** Advanced  Cambridge B2 First (2017)  
+** Russian / Ruso:** Beginner / Principiante  
+** Icelandic / Islandés:** Beginner / Principiante
+
+</div>
+
+<div align="center">
+  
+  ![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen?style=for-the-badge)
+  ![English](https://img.shields.io/badge/English-B2_Advanced-blue?style=for-the-badge)
+  ![Russian](https://img.shields.io/badge/Russian-Beginner-orange?style=for-the-badge)
+  ![Icelandic](https://img.shields.io/badge/Icelandic-Beginner-lightblue?style=for-the-badge)
+  
+</div>
+
+---
+
 ##  Professional Status
 
 <div align="center">
