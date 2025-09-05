@@ -36,9 +36,6 @@
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-###  Version Control
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 </div>
 
 ---
@@ -51,10 +48,11 @@
 ![STATUS](https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20FREELANCE-brightgreen?style=for-the-badge)
 ![FOCUS](https://img.shields.io/badge/FOCUS-CLOUD%20SECURITY-blue?style=for-the-badge)
 ![LEARNING](https://img.shields.io/badge/LEARNING-ADVANCED%20AWS-orange?style=for-the-badge)
+![LEARNING](https://img.shields.io/badge/LEARNING-ADVANCED%20LINUX-purple?style=for-the-badge)
 
 ### Expertise Level
 ![AWS](https://img.shields.io/badge/AWS-INTERMEDIATE-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-ADVANCED-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-INTERMEDIATE-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Security](https://img.shields.io/badge/SECURITY-INTERMEDIATE-red?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-INTERMEDIATE-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
