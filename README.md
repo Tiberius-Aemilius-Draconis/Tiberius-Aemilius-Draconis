@@ -107,22 +107,6 @@
 
 ---
 
-##  Let's Connect!
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  
-  ###  "Securing the cloud, one deployment at a time" 
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Tiberius-Aemilius-Draconis&color=brightgreen&style=for-the-badge)
-  
-</div>
-
----
-
 <div align="center">
   
   ###  Available for freelance projects! Let's build something secure and scalable! 
