@@ -8,7 +8,7 @@
 
   🌐 **Portfolio Website:** [napoleoniglesias.com](https://www.napoleoniglesias.com/)
 
-</div>---
+</div></div>
 
 ##  Skills & Tools | Habilidades y Herramientas
 
