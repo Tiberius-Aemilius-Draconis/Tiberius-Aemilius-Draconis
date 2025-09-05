@@ -71,8 +71,6 @@
 
 ---
 
-##  Cool Visuals
-
 <div align="center">
   
   ![Matrix](https://readme-typing-svg.herokuapp.com?font=Courier&size=16&duration=1000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=600&height=150&lines=root%40kali%3A~%23+nmap+-sV+target.com;Starting+Nmap+scan...;Host+is+up+(0.043s+latency);PORT++++STATE+SERVICE+VERSION;22%2Ftcp++open++ssh++++OpenSSH+8.2;80%2Ftcp++open++http+++nginx+1.18;443%2Ftcp+open++https++nginx+1.18;Scan+complete!+%F0%9F%94%90)
