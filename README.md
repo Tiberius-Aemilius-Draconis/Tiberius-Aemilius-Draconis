@@ -4,7 +4,7 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+Security+Specialist;Server+Administrator;Freelancer)
   
-  ###  AWS Developer |  Cybersecurity Enthusiast |  Linux Admin
+  ###  AWS Developer |  Cybersecurity |  Linux Admin
   
 </div>
 
