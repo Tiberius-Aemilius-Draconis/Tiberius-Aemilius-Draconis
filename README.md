@@ -47,22 +47,12 @@
 
 <div align="center">
 
-###  Current Focus
-`javascript
-const profile = {
-    role: "Freelance Full-Stack Developer",
-    specialties: ["AWS Cloud", "Next.js", "Linux Admin", "Cybersecurity"],
-    available: true,
-    motto: "Securing the cloud, one deployment at a time"
-};
-`
-
 ###  What I Do
--  **AWS Cloud Solutions** - Scalable infrastructure design
--  **Next.js Applications** - Modern web development
--  **Linux Server Admin** - System configuration & security
--  **Security Testing** - Penetration testing with Metasploit
--  **DevOps** - Docker containerization & deployment
+-  **AWS Cloud Solutions**
+-  **Next.js Applications**
+-  **Linux Server Admin**
+-  **Security Testing**
+-  **DevOps**
 
 </div>
 
