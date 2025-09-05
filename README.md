@@ -46,6 +46,8 @@
 ##  Experience | Experiencia
 
 <div align="center">
+  
+  ![Coding](https://readme-typing-svg.herokuapp.com?font=Courier&size=14&duration=2000&pause=800&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=120&lines=+%F0%9F%92%BB+Developing+scalable+web+applications...;+%E2%98%81%EF%B8%8F+Managing+AWS+cloud+infrastructure...;+%F0%9F%94%90+Securing+systems+and+networks...;+%F0%9F%90%A7+Administering+Linux+servers...;+%F0%9F%93%A6+Deploying+with+Docker+containers...)
 
 ###  What I Do
 -  **AWS Cloud Solutions**
@@ -54,6 +56,12 @@
 -  **Security Testing**
 -  **DevOps**
 
+</div>
+
+<div align="center">
+  
+  ![Process](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1500&pause=500&color=00D4AA&center=true&vCenter=true&multiline=true&width=400&height=100&lines=+%F0%9F%94%84+Analyzing+requirements...;+%E2%9A%A1+Building+solutions...;+%F0%9F%A7%AA+Testing+%26+debugging...;+%F0%9F%9A%80+Deploying+to+production...;+%F0%9F%94%A7+Monitoring+%26+optimizing...)
+  
 </div>
 
 ---
@@ -74,6 +82,12 @@
 <div align="center">
   
   ![Matrix](https://readme-typing-svg.herokuapp.com?font=Courier&size=16&duration=1000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=600&height=150&lines=root%40kali%3A~%23+nmap+-sV+target.com;Starting+Nmap+scan...;Host+is+up+(0.043s+latency);PORT++++STATE+SERVICE+VERSION;22%2Ftcp++open++ssh++++OpenSSH+8.2;80%2Ftcp++open++http+++nginx+1.18;443%2Ftcp+open++https++nginx+1.18;Scan+complete!+%F0%9F%94%90)
+  
+</div>
+
+<div align="center">
+  
+  ![Docker](https://readme-typing-svg.herokuapp.com?font=Courier&size=14&duration=1800&pause=600&color=2496ED&center=true&vCenter=true&multiline=true&width=500&height=100&lines=%24+docker+build+-t+myapp+.;Successfully+built+image+myapp;%24+docker+run+-p+3000%3A3000+myapp;%F0%9F%90%B3+Container+running+on+port+3000)
   
 </div>
 
