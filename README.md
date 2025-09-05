@@ -28,10 +28,35 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ###  Security & Penetration Testing
-![Metasploit](https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-4B0082?style=for-the-badge&logo=security&logoColor=white)
+
+###  Version Control & Development
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ###  Version Control
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Professional Status
+
+<div align="center">
+
+### Currently Working On
+![STATUS](https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20FREELANCE-brightgreen?style=for-the-badge)
+![FOCUS](https://img.shields.io/badge/FOCUS-CLOUD%20SECURITY-blue?style=for-the-badge)
+![LEARNING](https://img.shields.io/badge/LEARNING-ADVANCED%20AWS-orange?style=for-the-badge)
+
+### Expertise Level
+![AWS](https://img.shields.io/badge/AWS-INTERMEDIATE-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-ADVANCED-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Security](https://img.shields.io/badge/SECURITY-INTERMEDIATE-red?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-INTERMEDIATE-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
