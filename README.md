@@ -49,13 +49,6 @@
   
   ![Coding](https://readme-typing-svg.herokuapp.com?font=Courier&size=14&duration=2000&pause=800&color=FF6B35&center=true&vCenter=true&multiline=true&width=500&height=120&lines=+%F0%9F%92%BB+Developing+scalable+web+applications...;+%E2%98%81%EF%B8%8F+Managing+AWS+cloud+infrastructure...;+%F0%9F%94%90+Securing+systems+and+networks...;+%F0%9F%90%A7+Administering+Linux+servers...;+%F0%9F%93%A6+Deploying+with+Docker+containers...)
 
-###  What I Do
--  **AWS Cloud Solutions**
--  **Next.js Applications**
--  **Linux Server Admin**
--  **Security Testing**
--  **DevOps**
-
 </div>
 
 <div align="center">
